@@ -1,0 +1,23 @@
+# Compiled files
+/bin/
+/build/
+/target/
+
+# Logs
+*.log
+
+# IDEs
+/.idea/
+/*.iml
+*.class
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependency cache
+/.mvn/
+/node_modules/
+
+# Environment
+.env
