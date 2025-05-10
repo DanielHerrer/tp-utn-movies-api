@@ -4,7 +4,7 @@
 
 1. Clonar el repositorio:
 
-git clone https://github.com/danielHerrer/tu_repositorio.git
+git clone https://github.com/DanielHerrer/tp-utn-movies-api
 
 2. Abrir el proyecto con tu IDE y ejecutar la clase principal.
 
